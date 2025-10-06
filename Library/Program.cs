@@ -1,4 +1,4 @@
-﻿class Book
+﻿internal class Book
 {
     string Title;
     string Author;
